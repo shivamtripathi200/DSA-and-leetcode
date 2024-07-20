@@ -1,0 +1,1 @@
+convert -ve number into binary no
